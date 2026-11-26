@@ -34,3 +34,7 @@ React Native, Expo, React Navigation (stack + bottom tabs), Context API, React H
 - Filter history by All / Income / Expense
 - Currency selection and profile name
 - Data persists after closing the app
+
+## Screenshots and Screen Recording
+
+[View screenshots and demo video](https://drive.google.com/drive/folders/1MtHrj0va9UmyWx3Zdg1tFPtFGE8f4dnW?usp=drive_link)
