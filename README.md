@@ -7,7 +7,7 @@ A React Native (Expo) app to record income and expenses, track your balance and 
 1. Install Node.js (LTS) and the **Expo Go** app on your phone.
 2. Clone the repo and install dependencies:
    ```
-   git clone https://github.com/diane587/spendwise.git
+   git clone https://github.com/diane587/SpendWise.git
    cd SpendWise
    npm install
    ```
